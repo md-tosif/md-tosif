@@ -72,7 +72,7 @@ position: fixed;
 inset: 0;
 z-index: 100;
 font-size: 0.420rem;
-background: url(https://c.tenor.com/lmC0DQdzP7EAAAAC/tenor.gif);
+background: url(https://raw.githubusercontent.com/md-tosif/md-tosif/main/chika.gif);
 background-repeat: no-repeat;
 background-size: contain;
 opacity: 0.02;
