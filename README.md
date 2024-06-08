@@ -72,7 +72,7 @@ position: fixed;
 inset: 0;
 z-index: 100;
 font-size: 0.420rem;
-background: url(https://github.com/TheCubiq/TheCubiq/blob/main/ignore.gif?raw=true);
+background: url(https://media1.tenor.com/images/b924e35dc0eba4e34318e86481db69eb/tenor.gif);
 background-repeat: no-repeat;
 background-size: contain;
 opacity: 0.02;
