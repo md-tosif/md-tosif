@@ -12,7 +12,6 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg');
 "]{}
 
 \mmlToken{ms}[fontfamily="
@@ -73,7 +72,7 @@ inset: 0;
 z-index: 100;
 font-size: 0.420rem;
 background: url(https://raw.githubusercontent.com/md-tosif/md-tosif/main/chika.gif);
-background-repeat: no-repeat;
+background-repeat: repeat;
 background-size: contain;
 opacity: 0.02;
 background-position-x: center;
